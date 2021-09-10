@@ -1,7 +1,7 @@
-### Oi 👋
+### Oi (●ˇ∀ˇ●)
 
-![Overview](https://github.com/vineboneto/stats/blob/master/generated/overview.svg) ![Lenguages](https://github.com/vineboneto/stats/blob/master/generated/languages.svg)
-
+<!-- ![Overview](https://github.com/vineboneto/stats/blob/master/generated/overview.svg) ![Lenguages](https://github.com/vineboneto/stats/blob/master/generated/languages.svg)
+ -->
 <a href="https://br.linkedin.com/in/vinicius-gazolla-boneto-6b0a02170"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
 
