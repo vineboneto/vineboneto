@@ -7,11 +7,6 @@
 ### About －O－ 
 
  - Computer science student
- - I currently consider myself Full Stack
- - I know ReactJS, ReactNative and Nodejs
- - I am currently studying python and am very interested in elixir
- - Although I consider myself full stack, I'm better on the backend
- - I plan to dedicate myself to AI ^^
 
 <a href="https://vineboneto-demo-2.vercel.app/">Me Site
 </a>
