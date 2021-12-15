@@ -1,8 +1,7 @@
 ### Hello ಠ_ಠ
 
-<!-- [comment]: # ![Overview](https://github.com/vineboneto/stats/blob/master/generated/overview.svg)  -->
-
-<!-- ![Lenguages](https://github.com/vineboneto/stats/blob/master/generated/languages.svg) -->
+![Overview](https://github.com/vineboneto/stats/blob/master/generated/overview.svg) 
+![Lenguages](https://github.com/vineboneto/stats/blob/master/generated/languages.svg) 
 
 ### About －O－ 
 
