@@ -1,4 +1,4 @@
-### Hello ಠ_ಠ
+### Hello ಠ_ಠ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ![Overview](https://github.com/vineboneto/stats/blob/master/generated/overview.svg) 
 ![Lenguages](https://github.com/vineboneto/stats/blob/master/generated/languages.svg) 
