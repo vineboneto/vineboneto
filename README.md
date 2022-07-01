@@ -1,7 +1,10 @@
 ### Hello ಠ_ಠ
 
-![Overview](https://github.com/vineboneto/stats/blob/master/generated/overview.svg) 
-![Lenguages](https://github.com/vineboneto/stats/blob/master/generated/languages.svg) 
+[comment]: ![Overview](https://github.com/vineboneto/stats/blob/master/generated/overview.svg) 
+[comment]: ![Lenguages](https://github.com/vineboneto/stats/blob/master/generated/languages.svg) 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineboneto&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineboneto&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About －O－ 
 
