@@ -3,7 +3,6 @@
 [comment]: ![Overview](https://github.com/vineboneto/stats/blob/master/generated/overview.svg) 
 [comment]: ![Lenguages](https://github.com/vineboneto/stats/blob/master/generated/languages.svg) 
 
-## Stats:
 <table border="0">
   <tr>
     <td>
