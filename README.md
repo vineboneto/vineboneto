@@ -5,9 +5,9 @@
 
 <table border="0">
   <tr>
-    <td>
+<!--     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=vineboneto&show_icons=true&theme=tokyonight">
-    </td>
+    </td> -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineboneto&hide=html,css&langs_count=10&show&theme=tokyonight&layout=compact">
     </td>  
