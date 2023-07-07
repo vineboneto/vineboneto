@@ -3,7 +3,7 @@
 [comment]: ![Overview](https://github.com/vineboneto/stats/blob/master/generated/overview.svg) 
 [comment]: ![Lenguages](https://github.com/vineboneto/stats/blob/master/generated/languages.svg) 
 
-<table border="0">
+<!--<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=vineboneto&show_icons=true&theme=tokyonight">
@@ -12,7 +12,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineboneto&hide=html,css&langs_count=10&show&theme=tokyonight&layout=compact">
     </td>  
   </tr>
- </table>
+ </table>  -->
 
 - Computer science student
 - [Me Site](https://vineboneto.win/)
